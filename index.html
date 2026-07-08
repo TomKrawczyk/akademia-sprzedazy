@@ -121,10 +121,15 @@ a{color:inherit}
 .hero-art{position:absolute;top:-30px;right:-30px;width:320px;height:320px;object-fit:cover;opacity:.4;pointer-events:none;-webkit-mask-image:linear-gradient(120deg,transparent 8%,#000 58%);mask-image:linear-gradient(120deg,transparent 8%,#000 58%)}
 @media(max-width:900px){.hero-art{display:none}}
 
-/* Part banner */
-.part-banner{border-radius:16px;overflow:hidden;margin-bottom:28px;position:relative;box-shadow:0 14px 34px -18px rgba(11,20,55,.25)}
-.part-banner img{width:100%;height:150px;object-fit:cover;display:block}
-.part-banner .pb-label{position:absolute;left:0;bottom:0;right:0;padding:10px 20px;background:linear-gradient(0deg,rgba(10,15,36,.85),transparent);color:#fff;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+/* Part banner - kwadratowe grafiki bez przycinania, layout w rzedzie */
+.part-banner{display:flex;align-items:center;gap:20px;border-radius:16px;overflow:hidden;margin-bottom:28px;position:relative;box-shadow:0 14px 34px -18px rgba(11,20,55,.3);background:linear-gradient(120deg,var(--navy),var(--navy2) 85%);padding:16px 22px 16px 16px}
+.part-banner img{width:104px;height:104px;object-fit:cover;display:block;border-radius:12px;flex-shrink:0;background:#f7f5f0}
+.part-banner .pb-sub{color:var(--d3);font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px}
+.part-banner .pb-label{color:#fff;font-size:19px;font-weight:700;font-family:'Playfair Display',Georgia,serif;line-height:1.25}
+@media(max-width:560px){.part-banner{padding:14px}.part-banner img{width:76px;height:76px}.part-banner .pb-label{font-size:16px}}
+
+/* Module icon - kwadratowa ikonka nad naglowkiem modulu, bez przycinania */
+.mod-icon{width:80px;height:80px;object-fit:cover;border-radius:16px;margin-bottom:16px;box-shadow:0 12px 26px -14px rgba(11,20,55,.3);display:block}
 
 /* Scroll reveal */
 .reveal{opacity:0;transform:translateY(16px);transition:opacity .55s ease,transform .55s ease}
@@ -263,14 +268,17 @@ content.innerHTML = COURSE.map((m,i)=>{
   const next = i<COURSE.length-1 ? `<button class="btn" onclick="go(${i+1})">${COURSE[i+1].nav} →</button>` : '<span></span>';
   let banner = '';
   if(m.part !== lastPartBanner && PART_IMG[m.part]){
-    banner = `<div class="part-banner reveal"><img src="${PART_IMG[m.part]}" alt="${m.part}" loading="lazy"><div class="pb-label">${m.part}</div></div>`;
+    const parts = m.part.split(' · ');
+    const roman = parts[0] || '';
+    const label = parts[1] || m.part;
+    banner = `<div class="part-banner reveal"><img src="${PART_IMG[m.part]}" alt="${m.part}" loading="lazy"><div><div class="pb-sub">Część ${roman}</div><div class="pb-label">${label}</div></div></div>`;
     lastPartBanner = m.part;
   }
   return `<section class="module" id="${m.id}">${banner}${body}<div class="pager">${prev}${next}</div></section>`;
 }).join('');
 
 // --- animacje: scroll reveal ---
-const revealTargets = content.querySelectorAll('h2,h3,.lede,.tile,.quiz,.scene,.card,.tbl,.quote,.psy,.warn,.part-banner');
+const revealTargets = content.querySelectorAll('h2,h3,.lede,.tile,.quiz,.scene,.card,.tbl,.quote,.psy,.warn,.part-banner,.mod-icon');
 revealTargets.forEach(el=>el.classList.add('reveal'));
 const bubbleTargets = content.querySelectorAll('.bubble');
 bubbleTargets.forEach(el=>{

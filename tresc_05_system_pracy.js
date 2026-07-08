@@ -1,6 +1,7 @@
 /* ===== AKADEMIA SPRZEDAZY - CZESC: 05_system_pracy ===== */
 
 CONTENT.skrypty = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/46524f0b1_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 20 · System pracy</span>
 <h2>Gotowe skrypty rozmów OZE</h2>
 <p class="lede">Skrypt to drogowskaz, nie elementarz do wyuczenia na pamięć (Rogers: autentyczność). Poznaj strukturę, mów naturalnie, dopasuj słowa do siebie.</p>

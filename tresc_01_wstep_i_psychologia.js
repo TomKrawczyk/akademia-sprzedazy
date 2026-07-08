@@ -32,6 +32,7 @@ CONTENT.intro = `
 `;
 
 CONTENT.wundt = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/17f9bd767_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 1 · Fundament psychologiczny</span>
 <h2>Wilhelm Wundt: umysł jako mierzalny proces</h2>
 <p class="lede">Ojciec psychologii jako nauki. Zanim nauczysz się technik, zrozum najprostszą, a najczęściej ignorowaną prawdę: umysł klienta ma ograniczoną przepustowość.</p>
@@ -79,6 +80,7 @@ CONTENT.wundt = `
 `;
 
 CONTENT.freud = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/3d54da2b5_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 2 · Fundament psychologiczny</span>
 <h2>Zygmunt Freud: id, ego, superego i mechanizmy obronne klienta</h2>
 <p class="lede">Twórca psychoanalizy pokazał, że większość naszych decyzji napędza nieświadomość. Obiekcja klienta rzadko jest tym, na co wygląda — to zwykle mechanizm obronny broniący przed lękiem.</p>
@@ -139,6 +141,7 @@ CONTENT.freud = `
 `;
 
 CONTENT.maslow = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/2e79b7389_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 3 · Fundament psychologiczny</span>
 <h2>Abraham Maslow: piramida potrzeb jako mapa motywacji zakupowej</h2>
 <p class="lede">Psychologia humanistyczna. Najprostsza i najskuteczniejsza mapa tego, co naprawdę motywuje człowieka do działania — i do zakupu.</p>
@@ -192,6 +195,7 @@ CONTENT.maslow = `
 `;
 
 CONTENT.rogers = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/03c5e22d6_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 4 · Fundament psychologiczny</span>
 <h2>Carl Rogers: empatia, autentyczność, aktywne słuchanie</h2>
 <p class="lede">Twórca terapii skoncentrowanej na osobie. Odkrył trzy warunki, które budują zaufanie i otwierają człowieka na drugą osobę — fundament KAŻDEJ dobrej rozmowy telefonicznej.</p>
@@ -247,6 +251,7 @@ CONTENT.rogers = `
 `;
 
 CONTENT.cialdini = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/c97d62935_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 5 · Fundament psychologiczny</span>
 <h2>Robert Cialdini: 7 zasad wpływu</h2>
 <p class="lede">Psycholog społeczny, autor „Wywierania wpływu na ludzi". Opisał reguły, które nieświadomie kierują decyzjami „tak" — najpotężniejsze, etyczne narzędzia perswazji, jakie istnieją.</p>

@@ -137,6 +137,7 @@ CONTENT.glos = `
 `;
 
 CONTENT.gatekeeper = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/3cebdf9b9_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 12 · Anatomia rozmowy</span>
 <h2>Gatekeeper: jak przejść przez recepcję lub sekretariat</h2>
 <p class="lede">W leadach firmowych najpierw zwykle odbiera osoba pierwszego kontaktu. To brama, nie przeszkoda — traktowana z szacunkiem, otwiera drzwi.</p>

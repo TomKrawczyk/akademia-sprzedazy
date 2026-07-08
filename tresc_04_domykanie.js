@@ -1,6 +1,7 @@
 /* ===== AKADEMIA SPRZEDAZY - CZESC: 04_domykanie ===== */
 
 CONTENT.obiekcje = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/e53f4c7a2_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 16 · Domykanie</span>
 <h2>Obiekcje: Grant Cardone, Feel-Felt-Found i psychologia oporu</h2>
 <p class="lede">Fundament z modułu o Freudzie: obiekcja to zwykle mechanizm obronny, nie prawda. "Za drogo" często znaczy "boję się zaryzykować". Twoje zadanie to najpierw rozbroić napięcie, potem wejść w merytorykę.</p>
