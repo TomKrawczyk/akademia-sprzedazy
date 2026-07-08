@@ -121,15 +121,16 @@ a{color:inherit}
 .hero-art{position:absolute;top:-30px;right:-30px;width:320px;height:320px;object-fit:cover;opacity:.4;pointer-events:none;-webkit-mask-image:linear-gradient(120deg,transparent 8%,#000 58%);mask-image:linear-gradient(120deg,transparent 8%,#000 58%)}
 @media(max-width:900px){.hero-art{display:none}}
 
-/* Part banner - kwadratowe grafiki bez przycinania, layout w rzedzie */
-.part-banner{display:flex;align-items:center;gap:20px;border-radius:16px;overflow:hidden;margin-bottom:28px;position:relative;box-shadow:0 14px 34px -18px rgba(11,20,55,.3);background:linear-gradient(120deg,var(--navy),var(--navy2) 85%);padding:16px 22px 16px 16px}
-.part-banner img{width:104px;height:104px;object-fit:cover;display:block;border-radius:12px;flex-shrink:0;background:#f7f5f0}
-.part-banner .pb-sub{color:var(--d3);font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px}
-.part-banner .pb-label{color:#fff;font-size:19px;font-weight:700;font-family:'Playfair Display',Georgia,serif;line-height:1.25}
-@media(max-width:560px){.part-banner{padding:14px}.part-banner img{width:76px;height:76px}.part-banner .pb-label{font-size:16px}}
+/* Part banner - duze kwadratowe grafiki bez przycinania, layout w rzedzie */
+.part-banner{display:flex;align-items:center;gap:26px;border-radius:20px;overflow:hidden;margin-bottom:30px;position:relative;box-shadow:0 18px 40px -18px rgba(11,20,55,.32);background:linear-gradient(120deg,var(--navy),var(--navy2) 85%);padding:20px 28px 20px 20px}
+.part-banner img{width:190px;height:190px;object-fit:cover;display:block;border-radius:16px;flex-shrink:0;background:#f7f5f0}
+.part-banner .pb-sub{color:var(--d3);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:6px}
+.part-banner .pb-label{color:#fff;font-size:25px;font-weight:700;font-family:'Playfair Display',Georgia,serif;line-height:1.3}
+@media(max-width:560px){.part-banner{flex-direction:column;align-items:flex-start;padding:16px}.part-banner img{width:140px;height:140px}.part-banner .pb-label{font-size:19px}}
 
-/* Module icon - kwadratowa ikonka nad naglowkiem modulu, bez przycinania */
-.mod-icon{width:80px;height:80px;object-fit:cover;border-radius:16px;margin-bottom:16px;box-shadow:0 12px 26px -14px rgba(11,20,55,.3);display:block}
+/* Module icon - duza kwadratowa ikonka nad naglowkiem modulu, bez przycinania */
+.mod-icon{width:150px;height:150px;object-fit:cover;border-radius:20px;margin-bottom:18px;box-shadow:0 16px 34px -16px rgba(11,20,55,.32);display:block}
+@media(max-width:560px){.mod-icon{width:110px;height:110px}}
 
 /* Scroll reveal */
 .reveal{opacity:0;transform:translateY(16px);transition:opacity .55s ease,transform .55s ease}
