@@ -3,6 +3,7 @@ const CONTENT = {};
 
 CONTENT.intro = `
 <div class="hero">
+  <img class="hero-art" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/324efd048_generated_image.png" alt="" loading="lazy">
   <span class="eyebrow" style="background:rgba(34,197,94,.18);color:#bbf7d0;border-color:rgba(34,197,94,.3)">Wersja interaktywna</span>
   <h1>Akademia Sprzedaży Telefonicznej — Call Center</h1>
   <p>Kompletny, interaktywny program dla konsultanta 4ECO. Fundament psychologiczny (Wundt, Freud, Maslow, Rogers, Cialdini) połączony z metodami najlepszych trenerów sprzedaży świata (Tracy, Belfort, Gitomer, Cardone) i modelem Challenger Sale. Każdy moduł ma przykłady z życia, gotowe skrypty i quiz sprawdzający.</p>
