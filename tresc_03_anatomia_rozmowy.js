@@ -1,6 +1,7 @@
 /* ===== AKADEMIA SPRZEDAZY - CZESC: 03_anatomia_rozmowy ===== */
 
 CONTENT.struktura = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/d22b94a4f_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 9 · Anatomia rozmowy</span>
 <h2>Struktura rozmowy: 8 faz i wybór metody</h2>
 <p class="lede">Rozmowa w call center jest szybsza i bardziej ustrukturyzowana niż spotkanie handlowca. Poznaj szkielet, na którym zbudujesz każdą rozmowę.</p>
@@ -32,6 +33,7 @@ CONTENT.struktura = `
 `;
 
 CONTENT.otwarcie = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/bfb4add85_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 10 · Anatomia rozmowy</span>
 <h2>Pierwsze 20 sekund: reguła 4×20 i haki na uwagę</h2>
 <p class="lede">Decyzja "słucham" albo "rozłączam" zapada w kilka sekund — zanim klient świadomie przetworzy Twoje słowa (Wundt: reakcja wyprzedza świadomość).</p>
@@ -86,6 +88,7 @@ CONTENT.otwarcie = `
 `;
 
 CONTENT.glos = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/1d7cd1201_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 11 · Anatomia rozmowy</span>
 <h2>Głos i tonalność: metoda Straight Line Jordana Belforta</h2>
 <p class="lede">Klient Cię nie widzi — głos to sto procent Twojego wizerunku. W kilka sekund nieświadomie ocenia, czy jesteś ekspertem i czy Ci zależy.</p>
@@ -167,6 +170,7 @@ CONTENT.gatekeeper = `
 `;
 
 CONTENT.potrzeby = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/efadb9623_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 13 · Anatomia rozmowy</span>
 <h2>Badanie potrzeb i kwalifikacja leada</h2>
 <p class="lede">Najczęstszy błąd konsultanta to "syndrom płytkiego badania potrzeb" — dwa pytania z obowiązku i już prezentacja produktu. Klient natychmiast czuje, że nie chodzi o niego.</p>
@@ -210,6 +214,7 @@ CONTENT.potrzeby = `
 `;
 
 CONTENT.challenger = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/11d8b65a5_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 14 · Anatomia rozmowy</span>
 <h2>Metoda Challenger: Teach, Tailor, Take Control</h2>
 <p class="lede">Badania CEB/Gartner na ponad 6000 handlowców pokazały, że 54% gwiazd sprzedaży to właśnie "Challengerzy" — sprzedawcy, którzy nie tylko pytają, ale uczą klienta czegoś nowego o jego własnej sytuacji.</p>
@@ -252,6 +257,7 @@ CONTENT.challenger = `
 `;
 
 CONTENT.prezentacja = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/4ade4d95d_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 15 · Anatomia rozmowy</span>
 <h2>Prezentacja przez korzyść: Brian Tracy i Jeffrey Gitomer</h2>
 <p class="lede">Klienta nie interesuje "12 kilowatów mocy i falownik hybrydowy". Interesuje go: "zamiast 900 złotych będę płacił 200 złotych miesięcznie".</p>

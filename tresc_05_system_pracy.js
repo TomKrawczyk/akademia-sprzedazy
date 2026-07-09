@@ -65,6 +65,7 @@ CONTENT.skrypty = `
 `;
 
 CONTENT.kpi = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/5004a130e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 21 · System pracy</span>
 <h2>KPI konsultanta — Twój panel kontrolny</h2>
 <p class="lede">W call center wszystko jest mierzone. Znajomość własnych wskaźników to nie biurokracja — to podstawa świadomego rozwoju i premii.</p>
@@ -90,6 +91,7 @@ CONTENT.kpi = `
 `;
 
 CONTENT.cwiczenia = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/bf4759b2e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 22 · System pracy</span>
 <h2>Ćwiczenia praktyczne i 15 przykazań mistrza</h2>
 <p class="lede">Wiedza bez praktyki nie zmienia wyników. Oto konkretne ćwiczenia do wykonywania regularnie oraz podsumowanie całego kursu w formie łatwych do zapamiętania zasad.</p>

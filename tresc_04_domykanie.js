@@ -73,6 +73,7 @@ CONTENT.obiekcje = `
 `;
 
 CONTENT.finalizacja = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/d69255c1a_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 17 · Domykanie</span>
 <h2>Finalizacja: techniki zamknięcia</h2>
 <p class="lede">To zadaniem sprzedawcy jest dążenie do finalizacji, a nie oczekiwanie na nią. Rasowi konsultanci próbują domknąć tyle razy, ile się da — nie poddają się po pierwszej próbie.</p>
@@ -120,6 +121,7 @@ CONTENT.finalizacja = `
 `;
 
 CONTENT.typy = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8f01fafdc_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 18 · Domykanie</span>
 <h2>Typy klientów: model kolorów Mrozowskiego</h2>
 <p class="lede">Rozpoznanie typu klienta w pierwszych 20 sekundach i dopasowanie stylu rozmowy potrafi podwoić Twoją skuteczność.</p>
@@ -165,6 +167,7 @@ CONTENT.typy = `
 `;
 
 CONTENT.trudne = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/0d221144e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 19 · Domykanie</span>
 <h2>Trudne sytuacje i psychohigiena</h2>
 <p class="lede">Call center to sport wytrzymałościowy dla głosu i psychiki. Poznaj, jak reagować w trudnych momentach i jak zadbać o siebie, żeby wynik nie spadał.</p>

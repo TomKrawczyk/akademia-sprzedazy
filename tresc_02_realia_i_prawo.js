@@ -1,6 +1,7 @@
 /* ===== AKADEMIA SPRZEDAZY - CZESC: 02_realia_i_prawo ===== */
 
 CONTENT.realia = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/9a36c2872_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 6 · Realia i prawo</span>
 <h2>Realia pracy: dialer, skrypter, CRM, statystyka</h2>
 <p class="lede">To nie jest praca handlowca terenowego. Handlowiec buduje jedną relację tygodniami. Ty pracujesz na dialerze podającym kolejne numery co kilkanaście sekund — szybciej, twardziej, bardziej powtarzalnie.</p>
@@ -36,6 +37,7 @@ CONTENT.realia = `
 `;
 
 CONTENT.prawo = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/cfbaa635e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 7 · Realia i prawo</span>
 <h2>Prawo: PKE, RODO, zgody</h2>
 <p class="lede">Najważniejszy moduł z punktu widzenia firmy. Błąd tutaj oznacza realne kary finansowe dla 4ECO i skargi do UODO lub UKE. Musisz to znać na pamięć.</p>
@@ -88,6 +90,7 @@ CONTENT.prawo = `
 `;
 
 CONTENT.mindset = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/67460b892_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 8 · Realia i prawo</span>
 <h2>Mindset mistrza: Brian Tracy, Grant Cardone i gra liczb</h2>
 <p class="lede">Talent bez systematyczności przegrywa z konsekwencją. Poznaj mentalność, która odróżnia przeciętnego konsultanta od gwiazdy sprzedaży.</p>
