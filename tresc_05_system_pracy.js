@@ -160,5 +160,5 @@ CONTENT.cwiczenia = `
 </ol>
 </div>
 
-<div class="quote" style="text-align:center;font-size:16px">Gratulacje — ukończyłeś pełną Akademię Sprzedaży Telefonicznej 4ECO. Teraz czas przełożyć to na słuchawkę.</div>
+<div class="quote" style="text-align:center;font-size:16px">Gratulacje — ukończyłeś pełną Akademię Sprzedaży Telefonicznej. Teraz czas przełożyć to na słuchawkę.</div>
 `;

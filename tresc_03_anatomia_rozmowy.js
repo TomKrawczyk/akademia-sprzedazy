@@ -81,8 +81,8 @@ CONTENT.otwarcie = `
 
 <div class="quiz">
   <div class="q">Które otwarcie jest zgodne z regułą 4×20 i psychologią pierwszego wrażenia?</div>
-  <button class="opt" data-ok="0" onclick="quizPick(this,false,'','To klasyczny wyzwalacz odruchu obronnego \"kolejny telemarketer\" — brak haka, brak korzyści.')">„Dzień dobry, nazywam się Jan Kowalski, dzwonię z firmy 4ECO, chciałbym przedstawić naszą ofertę fotowoltaiki"</button>
-  <button class="opt" data-ok="1" onclick="quizPick(this,true,'Tak — energia + hak na korzyść + pytanie na \"tak\" w pierwszych sekundach.','')">„Dzień dobry! Jan Kowalski, 4ECO. Dzwonię, bo pomagamy domom jak Państwa płacić o połowę mniej za prąd — mogę powiedzieć jak?"</button>
+  <button class="opt" data-ok="0" onclick="quizPick(this,false,'','To klasyczny wyzwalacz odruchu obronnego \"kolejny telemarketer\" — brak haka, brak korzyści.')">„Dzień dobry, nazywam się Jan Kowalski, dzwonię z naszej firmy, chciałbym przedstawić naszą ofertę fotowoltaiki"</button>
+  <button class="opt" data-ok="1" onclick="quizPick(this,true,'Tak — energia + hak na korzyść + pytanie na \"tak\" w pierwszych sekundach.','')">„Dzień dobry! Jan Kowalski. Dzwonię, bo pomagamy domom jak Państwa płacić o połowę mniej za prąd — mogę powiedzieć jak?"</button>
   <div class="fb"></div>
 </div>
 `;

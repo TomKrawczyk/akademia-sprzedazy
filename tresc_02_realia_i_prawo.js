@@ -40,7 +40,7 @@ CONTENT.prawo = `
 <img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/cfbaa635e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 7 · Realia i prawo</span>
 <h2>Prawo: PKE, RODO, zgody</h2>
-<p class="lede">Najważniejszy moduł z punktu widzenia firmy. Błąd tutaj oznacza realne kary finansowe dla 4ECO i skargi do UODO lub UKE. Musisz to znać na pamięć.</p>
+<p class="lede">Najważniejszy moduł z punktu widzenia firmy. Błąd tutaj oznacza realne kary finansowe dla firmy i skargi do UODO lub UKE. Musisz to znać na pamięć.</p>
 
 <div class="warn"><b>Prawo Komunikacji Elektronicznej (PKE)</b> obowiązuje od 10 listopada 2024 roku. Kluczowy jest artykuł 398 PKE.</div>
 
